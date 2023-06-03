@@ -12,6 +12,7 @@ public class GithubKullanimi1 {
 
 
         System.out.println("Ahmet branch'inde ortak class'da degisiklik yaptim");
-
+        System.out.println("main branch degi. 1  satir");
+        System.out.println("main branch degi 2 . satir");
     }
 }
